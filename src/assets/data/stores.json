@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "name": "Pizza Place",
+        "description": "Delicious wood-fired pizzas with fresh ingredients.",
+        "contact": {
+            "phone": "+55 11 91234-5678",
+            "whatsapp": "+55 11 91234-5678",
+            "email": "contact@pizzaplace.com",
+            "social_media": {
+                "facebook": "https://facebook.com/pizzaplace",
+                "instagram": "https://instagram.com/pizzaplace"
+            }
+        },
+        "menu_items": [
+            {
+                "id": 1,
+                "name": "Margherita Pizza",
+                "price": 25.00,
+                "thumbnail": "path/to/margherita.jpg"
+            },
+            {
+                "id": 2,
+                "name": "Pepperoni Pizza",
+                "price": 30.00,
+                "thumbnail": "path/to/pepperoni.jpg"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Burger Joint",
+        "description": "Juicy burgers made with 100% beef and fresh toppings.",
+        "contact": {
+            "phone": "+55 11 92345-6789",
+            "whatsapp": "+55 11 92345-6789",
+            "email": "contact@burgerjoint.com",
+            "social_media": {
+                "facebook": "https://facebook.com/burgerjoint",
+                "instagram": "https://instagram.com/burgerjoint"
+            }
+        },
+        "menu_items": [
+            {
+                "id": 1,
+                "name": "Classic Burger",
+                "price": 20.00,
+                "thumbnail": "path/to/classic_burger.jpg"
+            },
+            {
+                "id": 2,
+                "name": "Cheese Burger",
+                "price": 22.00,
+                "thumbnail": "path/to/cheese_burger.jpg"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Sushi Spot",
+        "description": "Authentic sushi and sashimi made by experienced chefs.",
+        "contact": {
+            "phone": "+55 11 93456-7890",
+            "whatsapp": "+55 11 93456-7890",
+            "email": "contact@sushispot.com",
+            "social_media": {
+                "facebook": "https://facebook.com/sushispot",
+                "instagram": "https://instagram.com/sushispot"
+            }
+        },
+        "menu_items": [
+            {
+                "id": 1,
+                "name": "California Roll",
+                "price": 18.00,
+                "thumbnail": "path/to/california_roll.jpg"
+            },
+            {
+                "id": 2,
+                "name": "Salmon Sashimi",
+                "price": 30.00,
+                "thumbnail": "path/to/salmon_sashimi.jpg"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Taco Stand",
+        "description": "Spicy tacos with a variety of fillings and salsas.",
+        "contact": {
+            "phone": "+55 11 94567-8901",
+            "whatsapp": "+55 11 94567-8901",
+            "email": "contact@tacostand.com",
+            "social_media": {
+                "facebook": "https://facebook.com/tacostand",
+                "instagram": "https://instagram.com/tacostand"
+            }
+        },
+        "menu_items": [
+            {
+                "id": 1,
+                "name": "Chicken Taco",
+                "price": 15.00,
+                "thumbnail": "path/to/chicken_taco.jpg"
+            },
+            {
+                "id": 2,
+                "name": "Beef Taco",
+                "price": 17.00,
+                "thumbnail": "path/to/beef_taco.jpg"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Dessert Bar",
+        "description": "Sweet treats and desserts to satisfy your cravings.",
+        "contact": {
+            "phone": "+55 11 95678-9012",
+            "whatsapp": "+55 11 95678-9012",
+            "email": "contact@dessertbar.com",
+            "social_media": {
+                "facebook": "https://facebook.com/dessertbar",
+                "instagram": "https://instagram.com/dessertbar"
+            }
+        },
+        "menu_items": [
+            {
+                "id": 1,
+                "name": "Chocolate Cake",
+                "price": 12.00,
+                "thumbnail": "path/to/chocolate_cake.jpg"
+            },
+            {
+                "id": 2,
+                "name": "Ice Cream Sundae",
+                "price": 10.00,
+                "thumbnail": "path/to/ice_cream_sundae.jpg"
+            }
+        ]
+    }
+]

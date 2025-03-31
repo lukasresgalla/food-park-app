@@ -1,0 +1,33 @@
+{
+  "name": "food-park-app",
+  "version": "1.0.0",
+  "description": "A mobile application for a food park, showcasing stores, events, and menus.",
+  "main": "App.js",
+  "scripts": {
+    "start": "react-native start",
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "test": "jest",
+    "eject": "react-native eject"
+  },
+  "dependencies": {
+    "react": "17.0.2",
+    "react-native": "0.64.2",
+    "react-navigation": "^4.4.4",
+    "react-navigation-drawer": "^5.12.5",
+    "react-navigation-tabs": "^1.5.6",
+    "react-native-async-storage/async-storage": "^1.15.6"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.14.0",
+    "@babel/runtime": "^7.14.0",
+    "babel-jest": "^27.0.0",
+    "jest": "^27.0.0",
+    "metro-react-native-babel-preset": "^0.66.2"
+  },
+  "jest": {
+    "preset": "react-native"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
